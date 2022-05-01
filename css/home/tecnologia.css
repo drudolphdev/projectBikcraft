@@ -57,7 +57,7 @@
     .tecnologia-imagem {
         display: none;
     }
-    .tecnologia {
+    .tecnologia a {
         margin-bottom: 60px;
     }
 }
