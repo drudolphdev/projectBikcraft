@@ -34,7 +34,7 @@
     grid-column: 1/-1;
     margin-bottom: 32px;
 }
-.seguros-item ul + li {
+.seguros-item li + li {
     margin-top: 20px;
 }
 .seguros-item li {
