@@ -16,6 +16,7 @@
     text-transform: uppercase;
     color: var(--cor-p5);
     font: 600 1.125rem/1.35 "Poppins", sans-serif;
+    cursor: pointer;
 }
 .botao:hover {
     background: linear-gradient(#ffb60d, #e59317);
