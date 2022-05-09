@@ -29,7 +29,7 @@
 }
 .orcamento-produto {
     border-radius: 5px 0 0 5px;
-    background: var(--cor12);
+    background: var(--cor12) url("../../img/dec/bottom-left.svg") no-repeat bottom 20px left 20px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-content: start;
@@ -92,7 +92,7 @@
 }
 .orcamento-dados {
     border-radius: 0 4px 4px 0;
-    background: var(--cor0);
+    background: var(--cor0) url("../../img/dec/bottom-right.svg") no-repeat bottom 20px right 20px;
 }
 .orcamento-conteudo {
     display: none;
@@ -138,6 +138,7 @@
     }
     .orcamento-produto {
         border-radius: 4px 4px 0 0;
+        background: var(--cor12);
     }
     .orcamento-dados {
         border-radius: 0 0 4px 4px;
