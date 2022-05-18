@@ -9,7 +9,6 @@
 #bicicleta .titulo p {
     text-transform: uppercase;
 }
-
 .bicicleta-imagens {
     display: flex;
     flex-wrap: wrap;
